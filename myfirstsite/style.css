@@ -23,7 +23,7 @@ text-align: center;
 
 section
 {
-	border: solid 1px;
+	border: hidden 1px;
 	margin: 5px auto;
 	width: 50%;
 	display: block;
