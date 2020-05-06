@@ -1,0 +1,38 @@
+body
+{
+	background: #b3d9ff; 
+
+}
+
+
+h2
+{
+	background-color:#666666;
+font-variant: small-caps;;
+font-family: helvetic;
+text-align: center;
+}
+h1
+{
+	background:#b3b3b3;
+font-variant: small-caps;;
+font-family: helvetic;
+text-align: center;
+}
+
+
+section
+{
+	border: solid 1px;
+	margin: 5px auto;
+	width: 50%;
+	display: block;
+	padding: 5px;
+
+
+}
+div
+{
+	background: #b3d9ff;
+
+}
